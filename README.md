@@ -7,9 +7,9 @@
 
 - 📝 I regularly write articles on [https://csgyaanwithtejas.blogspot.com/](https://csgyaanwithtejas.blogspot.com/)
 
-- 📫 How to reach me **tejas.shimpi@outlook.com**
+- 📫 How to reach me **tejaspshimpi@gmail.com**
 
-- ⚡ Fun fact **Lets pretend I wrote something Funny here !😁**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
