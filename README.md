@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **MERN STACK DEV**
 
-- 📝 I regularly write articles on [https://csgyaanwithtejas.blogspot.com/](https://csgyaanwithtejas.blogspot.com/)
-
 - 📫 How to reach me **tejaspshimpi@gmail.com**
 
 
